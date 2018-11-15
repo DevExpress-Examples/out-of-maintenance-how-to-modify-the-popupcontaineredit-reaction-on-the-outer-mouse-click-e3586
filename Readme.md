@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomPopupContainerEdit.cs](./CS/ResistantPopup/Popup/CustomPopupContainerEdit.cs) (VB: [CustomPopupContainerEdit.vb](./VB/ResistantPopup/Popup/CustomPopupContainerEdit.vb))
+* [CustomPopupContainerForm.cs](./CS/ResistantPopup/Popup/CustomPopupContainerForm.cs) (VB: [CustomPopupContainerForm.vb](./VB/ResistantPopup/Popup/CustomPopupContainerForm.vb))
+* [RepositoryItemCustomPopupContainerEdit.cs](./CS/ResistantPopup/Popup/RepositoryItemCustomPopupContainerEdit.cs) (VB: [RepositoryItemCustomPopupContainerEdit.vb](./VB/ResistantPopup/Popup/RepositoryItemCustomPopupContainerEdit.vb))
+<!-- default file list end -->
 # How to modify the PopupContainerEdit reaction on the outer mouse click
 
 
